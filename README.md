@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC8mA9GTtzDc-rKtYOb1PZg7WaiA_QRyKOUqLj9BpOZSXDEhqj695xgQ9qrIcRh9AUnRl6EJkGEs0SO_XEy-Ic0COfrHytXQGWrHV6jaj_DCUALYnIVkkC99BIr0si0YmfoR00H9YPmemsK9RngwcIVgLyDQAh5WQgfg5vUdzReDXNKvh2Ef9FpsYDvo-X/w691-h269/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Irtiza Shahbaz</h1>
 <h3 align="center">A basic frontend developer from Pakistan(Karachi).</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
