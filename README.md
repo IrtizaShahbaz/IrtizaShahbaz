@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="[https://file.io/4HXmXmNTxDAZ](https://drive.google.com/file/d/1OJmNM_TiL1YkqZshphOcfeftrYSWil7O/view?usp=drive_link)" alt="Irtiza">
+<img align="center" width="100%" src="(https://drive.google.com/file/d/1OJmNM_TiL1YkqZshphOcfeftrYSWil7O/view?usp=drive_link)" alt="Irtiza">
 <h1 align="center">Hi 👋, I'm Irtiza Shahbaz</h1>
 <h3 align="center">A frontend developer from Pakistan(Karachi).</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
