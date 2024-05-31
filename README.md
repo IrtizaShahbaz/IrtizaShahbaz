@@ -1,7 +1,7 @@
-<img align="center" width="https://ufile.io/bi3ntgpk" alt="Irtiza">
+<img align="center" width="https://1.bp.blogspot.com/drive-storage/AJQWtBPRhThDQPLI3jqSMt5-31ed1WJb1seIgezxnvo_Sj1dQwyhjaenTfZ0vCOphjAi1UNC9JiVxaLY_XiClmnjTDaG-Y_fmFI7GZY4yDxcSDwk4GQ=w674-h238" alt="Irtiza">
 <h1 align="center">Hi 👋, I'm Irtiza Shahbaz</h1>
 <h3 align="center">A frontend developer from Pakistan(Karachi).</h3>
-<img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/drive-storage/AJQWtBPRhThDQPLI3jqSMt5-31ed1WJb1seIgezxnvo_Sj1dQwyhjaenTfZ0vCOphjAi1UNC9JiVxaLY_XiClmnjTDaG-Y_fmFI7GZY4yDxcSDwk4GQ=w674-h238">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtizashahbaz&label=Profile%20views&color=0e75b6&style=flat" alt="irtizashahbaz" /> </p>
 
