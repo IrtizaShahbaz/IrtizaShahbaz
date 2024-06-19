@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am a junior developer at the age of 16.**
 
+- 👨‍💻 checkout my portfolio **https://irtizashahbaz.netlify.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/irtiza.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irtiza.02" height="30" width="40" /></a>
